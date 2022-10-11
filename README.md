@@ -2,7 +2,8 @@
 
 ### DEMONSTRAÇÃO
 
-![PREVIEW](https://github.com/Gato-Da-Noite/Travel_Japan/blob/main/preview.png)
+![PREVIEW](https://raw.githubusercontent.com/Gato-Da-Noite/foca-fisica/main/preview1.png)
+![PREVIEW](https://raw.githubusercontent.com/Gato-Da-Noite/foca-fisica/main/preview2.png)
 
 ### TECNOLOGIAS USADAS
 
