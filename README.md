@@ -13,4 +13,4 @@
 
 ### DESCRIÇÃO
 
-A ideia do projeto é criar uma portal/portifolio para apresentação e ajudar estudantes direcionando eles a listas e aulas, implementação futuras de JS e animações serão feitas.
+A ideia do projeto é criar uma especie de portifolio para apresentação, e ajudar estudantes direcionando eles a listas e aulas. Implementação futuras de JS e animações serão feitas.
