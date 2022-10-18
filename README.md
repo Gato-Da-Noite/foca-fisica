@@ -2,8 +2,8 @@
 
 ### DEMONSTRAÇÃO
 
-![PREVIEW](https://raw.githubusercontent.com/Gato-Da-Noite/foca-fisica/main/previews/preview1.png)
-![PREVIEW](https://raw.githubusercontent.com/Gato-Da-Noite/foca-fisica/main/previews/preview2.png)
+![PREVIEW](https://raw.githubusercontent.com/Gato-Da-Noite/foca-fisica/main/previews/preview_1.png)
+![PREVIEW](https://raw.githubusercontent.com/Gato-Da-Noite/foca-fisica/main/previews/preview_2.png)
 
 ### TECNOLOGIAS USADAS
 
